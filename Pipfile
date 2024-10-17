@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 jupyter = "*"
+polars = "*"
+pandas = "*"
+pyarrow = "*"
+plotly = "*"
 
 [dev-packages]
 
